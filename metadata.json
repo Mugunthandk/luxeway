@@ -1,0 +1,6 @@
+{
+  "name": "LuxeWay - AI Luxury Travel Platform",
+  "description": "AI-powered luxury travel, stay & experience platform featuring curated villas, estates, private aviation, AI concierge, trip planner, and seamless booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
